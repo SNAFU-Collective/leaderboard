@@ -1496,5 +1496,12 @@
     "totalBalance": 5,
     "collection1Balance": 0,
     "collection1Nfts": 0
+  },
+  {
+    "address": "0xF18Ca3753c5bba51B97Fd410542ca739b4De5E71",
+    "allNfts": 1,
+    "totalBalance": 1,
+    "collection1Balance": 1,
+    "collection1Nfts": 1
   }
 ]
