@@ -1084,9 +1084,13 @@
     "allNfts": 18,
     "totalBalance": 55,
     "collection1Balance": 7,
+<<<<<<< HEAD
     "collection1Nfts": 5,
     "collection2Balance": 0,
     "collection2Nfts": 0
+=======
+    "collection1Nfts": 5
+>>>>>>> 62e5dada4cf22e1daad910ef56f534b68085efa7
   },
   {
     "address": "0xE3A4E9d3172232e369e76F9A231FbbE18267b725",
@@ -1921,17 +1925,25 @@
     "allNfts": 5,
     "totalBalance": 5,
     "collection1Balance": 0,
+<<<<<<< HEAD
     "collection1Nfts": 0,
     "collection2Balance": 0,
     "collection2Nfts": 0
+=======
+    "collection1Nfts": 0
+>>>>>>> 62e5dada4cf22e1daad910ef56f534b68085efa7
   },
   {
     "address": "0xF18Ca3753c5bba51B97Fd410542ca739b4De5E71",
     "allNfts": 1,
     "totalBalance": 1,
     "collection1Balance": 1,
+<<<<<<< HEAD
     "collection1Nfts": 1,
     "collection2Balance": 0,
     "collection2Nfts": 0
+=======
+    "collection1Nfts": 1
+>>>>>>> 62e5dada4cf22e1daad910ef56f534b68085efa7
   }
 ]
