@@ -2031,11 +2031,11 @@
     {
       "address": "0x8dDc7167e9F838f2e32FaBA229A53d4a48D0aa8d",
       "allNfts": 8,
-      "totalBalance": 222,
-      "totalValue": 5000,
-      "collection1Balance": 222,
+      "totalBalance": 221,
+      "totalValue": 4980,
+      "collection1Balance": 221,
       "collection1Nfts": 8,
-      "collection1Value": 5000,
+      "collection1Value": 4980,
       "collection2Balance": 0,
       "collection2Nfts": 0,
       "collection2Value": 0
@@ -2048,6 +2048,18 @@
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
+      "collection2Balance": 0,
+      "collection2Nfts": 0,
+      "collection2Value": 0
+    },
+    {
+      "address": "0x0064c1608efa188C7E51bBF1cd914E16F9807BA4",
+      "allNfts": 1,
+      "totalBalance": 1,
+      "totalValue": 20,
+      "collection1Balance": 1,
+      "collection1Nfts": 1,
+      "collection1Value": 20,
       "collection2Balance": 0,
       "collection2Nfts": 0,
       "collection2Value": 0
@@ -2198,15 +2210,15 @@
     },
     {
       "address": "0x85FcADB4056440Dc8CA14C1CB1fE595a99089B31",
-      "allNfts": 45,
-      "totalBalance": 450,
-      "totalValue": 3007.9053924998543,
+      "allNfts": 46,
+      "totalBalance": 451,
+      "totalValue": 3047.9053924998543,
       "collection1Balance": 17,
       "collection1Nfts": 16,
       "collection1Value": 785,
-      "collection2Balance": 5,
-      "collection2Nfts": 5,
-      "collection2Value": 500
+      "collection2Balance": 6,
+      "collection2Nfts": 6,
+      "collection2Value": 540
     },
     {
       "address": "0x4C4d793B848014B02A176ffdAce6babe96454fB3",
@@ -2511,15 +2523,15 @@
     {
       "address": "0x77beAf50CEc4206d3F09D41aE584222D53c74A2D",
       "allNfts": 1,
-      "totalBalance": 19,
-      "totalValue": 760,
+      "totalBalance": 18,
+      "totalValue": 720,
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
-      "collection2Balance": 19,
+      "collection2Balance": 18,
       "collection2Nfts": 1,
-      "collection2Value": 760
+      "collection2Value": 720
     }
   ],
-  "lastUpdate": 1623274543603
+  "lastUpdate": 1623274841907
 }
