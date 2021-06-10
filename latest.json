@@ -2552,10 +2552,10 @@
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
-      "collection2Balance": 0,
-      "collection2Nfts": 0,
-      "collection2Value": 0
+      "collection2Balance": 25,
+      "collection2Nfts": 1,
+      "collection2Value": 1000
     }
   ],
-  "lastUpdate": 1623342912655
+  "lastUpdate": 1623343214536
 }
