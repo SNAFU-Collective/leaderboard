@@ -2543,7 +2543,19 @@
       "collection2Balance": 14,
       "collection2Nfts": 1,
       "collection2Value": 560
+    },
+    {
+      "address": "0xF3361Fd22655bff05C617EDe2E061BE8A90c47f4",
+      "allNfts": 1,
+      "totalBalance": 25,
+      "totalValue": 1000,
+      "collection1Balance": 0,
+      "collection1Nfts": 0,
+      "collection1Value": 0,
+      "collection2Balance": 0,
+      "collection2Nfts": 0,
+      "collection2Value": 0
     }
   ],
-  "lastUpdate": 1623342700591
+  "lastUpdate": 1623342912655
 }
