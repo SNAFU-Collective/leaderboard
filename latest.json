@@ -1346,12 +1346,12 @@
     },
     {
       "address": "0xccb78FE2dAc3349CA4415815A74e960FDae53355",
-      "allNfts": 2,
-      "totalBalance": 2,
-      "totalValue": 70,
-      "collection1Balance": 2,
-      "collection1Nfts": 2,
-      "collection1Value": 70,
+      "allNfts": 1,
+      "totalBalance": 1,
+      "totalValue": 20,
+      "collection1Balance": 1,
+      "collection1Nfts": 1,
+      "collection1Value": 20,
       "collection2Balance": 0,
       "collection2Nfts": 0,
       "collection2Value": 0
@@ -1442,12 +1442,12 @@
     },
     {
       "address": "0x0e066ED845a6853557A0d580b3BA998b0283ACA8",
-      "allNfts": 51,
-      "totalBalance": 309,
-      "totalValue": 9664.049715052715,
-      "collection1Balance": 25,
-      "collection1Nfts": 14,
-      "collection1Value": 1365,
+      "allNfts": 53,
+      "totalBalance": 314,
+      "totalValue": 9884.049715052715,
+      "collection1Balance": 30,
+      "collection1Nfts": 16,
+      "collection1Value": 1585,
       "collection2Balance": 21,
       "collection2Nfts": 10,
       "collection2Value": 1560
@@ -2353,30 +2353,6 @@
       "collection2Value": 0
     },
     {
-      "address": "0x964c8d2c8D8Ab28a9724CCbfD5307F15F02b5a6e",
-      "allNfts": 3,
-      "totalBalance": 3,
-      "totalValue": 120,
-      "collection1Balance": 3,
-      "collection1Nfts": 3,
-      "collection1Value": 120,
-      "collection2Balance": 0,
-      "collection2Nfts": 0,
-      "collection2Value": 0
-    },
-    {
-      "address": "0xb0a4E99371dfb0734F002ae274933b4888F618ef",
-      "allNfts": 1,
-      "totalBalance": 1,
-      "totalValue": 50,
-      "collection1Balance": 1,
-      "collection1Nfts": 1,
-      "collection1Value": 50,
-      "collection2Balance": 0,
-      "collection2Nfts": 0,
-      "collection2Value": 0
-    },
-    {
       "address": "0x5e4eCC75b4C7c777ed37B194882Dbe8392a970b9",
       "allNfts": 5,
       "totalBalance": 5,
@@ -2617,5 +2593,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1623527114514
+  "lastUpdate": 1623527414186
 }
