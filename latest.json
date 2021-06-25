@@ -8,9 +8,9 @@
       "collection1Balance": 161,
       "collection1Nfts": 1,
       "collection1Value": 805,
-      "collection2Balance": 111,
-      "collection2Nfts": 12,
-      "collection2Value": 6540
+      "collection2Balance": 131,
+      "collection2Nfts": 14,
+      "collection2Value": 8540
     },
     {
       "address": "0x522029960f2aa9B12191c03D0964D8Cb321a8DE3",
@@ -2605,5 +2605,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1624639545247
+  "lastUpdate": 1624639822119
 }
