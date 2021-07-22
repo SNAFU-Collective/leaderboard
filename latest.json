@@ -963,14 +963,14 @@
     {
       "address": "0x8467F76ba0b033232e37C9b8CC4C28756400553a",
       "allNfts": 51,
-      "totalBalance": 59,
-      "totalValue": 3481.965645814814,
+      "totalBalance": 61,
+      "totalValue": 3561.965645814814,
       "collection1Balance": 23,
       "collection1Nfts": 15,
       "collection1Value": 890,
-      "collection2Balance": 25,
+      "collection2Balance": 27,
       "collection2Nfts": 25,
-      "collection2Value": 2180
+      "collection2Value": 2260
     },
     {
       "address": "0x60e6e08C7BE717ABA87576CfDcDceA5e7B13a046",
@@ -1995,11 +1995,11 @@
     {
       "address": "0x8dDc7167e9F838f2e32FaBA229A53d4a48D0aa8d",
       "allNfts": 7,
-      "totalBalance": 228,
-      "totalValue": 3390,
-      "collection1Balance": 228,
+      "totalBalance": 227,
+      "totalValue": 3370,
+      "collection1Balance": 227,
       "collection1Nfts": 7,
-      "collection1Value": 3390,
+      "collection1Value": 3370,
       "collection2Balance": 0,
       "collection2Nfts": 0,
       "collection2Value": 0
@@ -2174,12 +2174,12 @@
     },
     {
       "address": "0x4C4d793B848014B02A176ffdAce6babe96454fB3",
-      "allNfts": 5,
-      "totalBalance": 5,
-      "totalValue": 420,
-      "collection1Balance": 4,
-      "collection1Nfts": 4,
-      "collection1Value": 170,
+      "allNfts": 6,
+      "totalBalance": 6,
+      "totalValue": 440,
+      "collection1Balance": 5,
+      "collection1Nfts": 5,
+      "collection1Value": 190,
       "collection2Balance": 0,
       "collection2Nfts": 0,
       "collection2Value": 0
@@ -2199,14 +2199,14 @@
     {
       "address": "0x88CfEea7BE8A7695A3012276e8C68bf303Afe49a",
       "allNfts": 1,
-      "totalBalance": 15,
-      "totalValue": 600,
+      "totalBalance": 13,
+      "totalValue": 520,
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
-      "collection2Balance": 15,
+      "collection2Balance": 13,
       "collection2Nfts": 1,
-      "collection2Value": 600
+      "collection2Value": 520
     },
     {
       "address": "0xa76265D7d4819B7F8d280454f41e1a1386888466",
@@ -3001,5 +3001,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1626985583279
+  "lastUpdate": 1626985837414
 }
