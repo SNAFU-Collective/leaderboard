@@ -2,9 +2,9 @@
   "leaderboard": [
     {
       "address": "0x652d53227d7013f3FbBeA542443Dc2eeF05719De",
-      "allNfts": 16,
-      "totalBalance": 244,
-      "totalValue": 6420.555555555556,
+      "allNfts": 17,
+      "totalBalance": 245,
+      "totalValue": 7420.555555555556,
       "collection1Balance": 161,
       "collection1Nfts": 1,
       "collection1Value": 805,
@@ -3025,5 +3025,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1628079019531
+  "lastUpdate": 1628079318287
 }
