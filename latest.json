@@ -1418,9 +1418,9 @@
     },
     {
       "address": "0x79411510315e819A36a731aA384C866a1dbA2806",
-      "allNfts": 42,
-      "totalBalance": 81,
-      "totalValue": 3454.054974851762,
+      "allNfts": 41,
+      "totalBalance": 80,
+      "totalValue": 3254.054974851762,
       "collection1Balance": 11,
       "collection1Nfts": 7,
       "collection1Value": 470,
@@ -2151,14 +2151,14 @@
     {
       "address": "0x88CfEea7BE8A7695A3012276e8C68bf303Afe49a",
       "allNfts": 9,
-      "totalBalance": 75,
-      "totalValue": 3900,
+      "totalBalance": 74,
+      "totalValue": 3800,
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
-      "collection2Balance": 13,
+      "collection2Balance": 12,
       "collection2Nfts": 5,
-      "collection2Value": 1300
+      "collection2Value": 1200
     },
     {
       "address": "0xa76265D7d4819B7F8d280454f41e1a1386888466",
@@ -2344,7 +2344,7 @@
       "address": "0x55aF67E61A2988B1d001C22BC71FB7406dc04950",
       "allNfts": 3,
       "totalBalance": 3,
-      "totalValue": 500,
+      "totalValue": 425,
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
@@ -2366,7 +2366,7 @@
     },
     {
       "address": "0x8622bd4dC0D000D74F7aa453F6A86BA2eeB64e4b",
-      "allNfts": 8,
+      "allNfts": 7,
       "totalBalance": 9,
       "totalValue": 910,
       "collection1Balance": 2,
@@ -2639,18 +2639,6 @@
       "collection2Balance": 0,
       "collection2Nfts": 0,
       "collection2Value": 0
-    },
-    {
-      "address": "0xe7b1BEE870DA51d843E29058769C2F044c018FeD",
-      "allNfts": 6,
-      "totalBalance": 6,
-      "totalValue": 725,
-      "collection1Balance": 2,
-      "collection1Nfts": 2,
-      "collection1Value": 100,
-      "collection2Balance": 1,
-      "collection2Nfts": 1,
-      "collection2Value": 100
     },
     {
       "address": "0xc2F51032e14c02BD6D4ab67121B8fD2F4ae00644",
@@ -3097,5 +3085,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1633563636314
+  "lastUpdate": 1633563937194
 }
