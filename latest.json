@@ -1286,12 +1286,12 @@
     },
     {
       "address": "0xccb78FE2dAc3349CA4415815A74e960FDae53355",
-      "allNfts": 83,
-      "totalBalance": 7425,
-      "totalValue": 10611.437767642525,
-      "collection1Balance": 38,
-      "collection1Nfts": 24,
-      "collection1Value": 1875,
+      "allNfts": 86,
+      "totalBalance": 7428,
+      "totalValue": 11111.437767642525,
+      "collection1Balance": 39,
+      "collection1Nfts": 25,
+      "collection1Value": 1975,
       "collection2Balance": 28,
       "collection2Nfts": 25,
       "collection2Value": 2420
@@ -1802,9 +1802,9 @@
     },
     {
       "address": "0x78E87757861185Ec5e8C0EF6BF0C69Fa7832df6C",
-      "allNfts": 45,
-      "totalBalance": 118,
-      "totalValue": 3853.3511752855625,
+      "allNfts": 43,
+      "totalBalance": 114,
+      "totalValue": 3668.3511752855625,
       "collection1Balance": 25,
       "collection1Nfts": 17,
       "collection1Value": 1045,
@@ -2378,9 +2378,9 @@
     },
     {
       "address": "0x9AC6A6B24bCd789Fa59A175c0514f33255e1e6D0",
-      "allNfts": 7,
-      "totalBalance": 8,
-      "totalValue": 540,
+      "allNfts": 5,
+      "totalBalance": 6,
+      "totalValue": 140,
       "collection1Balance": 5,
       "collection1Nfts": 4,
       "collection1Value": 100,
@@ -2894,9 +2894,9 @@
     },
     {
       "address": "0x662D6C48818abD8bBCb7cb589D24E2Fe11Cdba52",
-      "allNfts": 10,
-      "totalBalance": 39,
-      "totalValue": 5850,
+      "allNfts": 5,
+      "totalBalance": 25,
+      "totalValue": 3275,
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
@@ -2966,9 +2966,9 @@
     },
     {
       "address": "0x9c57027B1eca93093a6F446422C59C85A5A3Fa52",
-      "allNfts": 2,
-      "totalBalance": 2,
-      "totalValue": 20.2000400080016,
+      "allNfts": 1,
+      "totalBalance": 1,
+      "totalValue": 0.20004000800160032,
       "collection1Balance": 0,
       "collection1Nfts": 0,
       "collection1Value": 0,
@@ -3085,5 +3085,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1633523435849
+  "lastUpdate": 1633523730008
 }
