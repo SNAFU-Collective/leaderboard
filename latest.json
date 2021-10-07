@@ -1286,12 +1286,12 @@
     },
     {
       "address": "0xccb78FE2dAc3349CA4415815A74e960FDae53355",
-      "allNfts": 86,
-      "totalBalance": 7428,
-      "totalValue": 11111.437767642525,
-      "collection1Balance": 39,
-      "collection1Nfts": 25,
-      "collection1Value": 1975,
+      "allNfts": 83,
+      "totalBalance": 7425,
+      "totalValue": 10611.437767642525,
+      "collection1Balance": 38,
+      "collection1Nfts": 24,
+      "collection1Value": 1875,
       "collection2Balance": 28,
       "collection2Nfts": 25,
       "collection2Value": 2420
@@ -1550,15 +1550,15 @@
     },
     {
       "address": "0xB0A9d798f7c8028B0e467b913a02b547D0528C4A",
-      "allNfts": 36,
-      "totalBalance": 42,
-      "totalValue": 2130.9556355715586,
+      "allNfts": 37,
+      "totalBalance": 43,
+      "totalValue": 2230.9556355715586,
       "collection1Balance": 22,
       "collection1Nfts": 20,
       "collection1Value": 1175,
-      "collection2Balance": 7,
-      "collection2Nfts": 6,
-      "collection2Value": 340
+      "collection2Balance": 8,
+      "collection2Nfts": 7,
+      "collection2Value": 440
     },
     {
       "address": "0x47EDdf80c3559E8Fa02eD44FAF68df728bEe891C",
@@ -1742,9 +1742,9 @@
     },
     {
       "address": "0x3631a6B1318a73dD2DBf890713A8aAa2c98c9A50",
-      "allNfts": 27,
-      "totalBalance": 29,
-      "totalValue": 2158.333333333333,
+      "allNfts": 26,
+      "totalBalance": 28,
+      "totalValue": 1958.3333333333333,
       "collection1Balance": 25,
       "collection1Nfts": 23,
       "collection1Value": 1225,
@@ -2198,9 +2198,9 @@
     },
     {
       "address": "0x4F60E166c4aB7357dEFAfBa63d0f73A5D515afda",
-      "allNfts": 4,
-      "totalBalance": 4,
-      "totalValue": 650,
+      "allNfts": 5,
+      "totalBalance": 5,
+      "totalValue": 850,
       "collection1Balance": 2,
       "collection1Nfts": 2,
       "collection1Value": 200,
@@ -3085,5 +3085,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1633601431778
+  "lastUpdate": 1633601735902
 }
