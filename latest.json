@@ -2294,9 +2294,9 @@
     },
     {
       "address": "0xDAe0646352836016c23a9434c37960f369503200",
-      "allNfts": 18,
-      "totalBalance": 19,
-      "totalValue": 872.7272727272727,
+      "allNfts": 19,
+      "totalBalance": 22,
+      "totalValue": 932.7272727272727,
       "collection1Balance": 8,
       "collection1Nfts": 8,
       "collection1Value": 240,
@@ -3085,5 +3085,5 @@
       "collection2Value": 0
     }
   ],
-  "lastUpdate": 1633721138076
+  "lastUpdate": 1633721426071
 }
