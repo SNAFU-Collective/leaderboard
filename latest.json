@@ -1607,18 +1607,18 @@
     },
     {
       "address": "0xccb78FE2dAc3349CA4415815A74e960FDae53355",
-      "allNfts": 112,
-      "totalBalance": 7485,
-      "totalValue": 16911.437767642525,
+      "allNfts": 117,
+      "totalBalance": 7490,
+      "totalValue": 17411.437767642525,
       "collection1Balance": 40,
       "collection1Nfts": 25,
       "collection1Value": 2075,
       "collection2Balance": 28,
       "collection2Nfts": 25,
       "collection2Value": 2420,
-      "collection3Balance": 55,
-      "collection3Nfts": 25,
-      "collection3Value": 5500
+      "collection3Balance": 60,
+      "collection3Nfts": 30,
+      "collection3Value": 6000
     },
     {
       "address": "0xE53418b2C4FAF9d0d5F681dE5565938F0f5a26F3",
@@ -1728,17 +1728,17 @@
     {
       "address": "0x0e066ED845a6853557A0d580b3BA998b0283ACA8",
       "allNfts": 154,
-      "totalBalance": 2724,
-      "totalValue": 24956.707628143213,
+      "totalBalance": 2723,
+      "totalValue": 24856.707628143213,
       "collection1Balance": 55,
       "collection1Nfts": 28,
       "collection1Value": 2595,
       "collection2Balance": 36,
       "collection2Nfts": 25,
       "collection2Value": 2860,
-      "collection3Balance": 54,
+      "collection3Balance": 53,
       "collection3Nfts": 35,
-      "collection3Value": 5400
+      "collection3Value": 5300
     },
     {
       "address": "0xfBF74FE3598371FB47C6246B824600B06f81bcf3",
@@ -2823,17 +2823,17 @@
     {
       "address": "0x964c8d2c8D8Ab28a9724CCbfD5307F15F02b5a6e",
       "allNfts": 34,
-      "totalBalance": 64,
-      "totalValue": 6100,
+      "totalBalance": 60,
+      "totalValue": 5700,
       "collection1Balance": 3,
       "collection1Nfts": 3,
       "collection1Value": 60,
       "collection2Balance": 2,
       "collection2Nfts": 2,
       "collection2Value": 140,
-      "collection3Balance": 59,
+      "collection3Balance": 55,
       "collection3Nfts": 29,
-      "collection3Value": 5900
+      "collection3Value": 5500
     },
     {
       "address": "0xb0a4E99371dfb0734F002ae274933b4888F618ef",
@@ -4096,5 +4096,5 @@
       "collection3Value": 0
     }
   ],
-  "lastUpdate": 1637544355278
+  "lastUpdate": 1637544642380
 }
