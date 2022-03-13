@@ -92,9 +92,9 @@
     },
     {
       "address": "0x52eB606f94091A2BA4f985D98C62880a9BA591B6",
-      "allNfts": 74,
-      "totalBalance": 10525,
-      "totalValue": 10849.012316233928,
+      "allNfts": 78,
+      "totalBalance": 10529,
+      "totalValue": 11060.012316233928,
       "collection1Balance": 10,
       "collection1Nfts": 8,
       "collection1Value": 220,
@@ -104,15 +104,15 @@
       "collection3Balance": 20,
       "collection3Nfts": 19,
       "collection3Value": 2000,
-      "othersBalance": 10451,
-      "othersNfts": 24,
-      "othersValue": 5576.790094011705
+      "othersBalance": 10455,
+      "othersNfts": 28,
+      "othersValue": 5787.790094011705
     },
     {
       "address": "0x800Ce06e8a40799f2BF52fB7E877a4C310598eCB",
-      "allNfts": 10,
-      "totalBalance": 11,
-      "totalValue": 518.5828783078407,
+      "allNfts": 9,
+      "totalBalance": 10,
+      "totalValue": 418.58287830784076,
       "collection1Balance": 1,
       "collection1Nfts": 1,
       "collection1Value": 20,
@@ -122,9 +122,9 @@
       "collection3Balance": 2,
       "collection3Nfts": 2,
       "collection3Value": 200,
-      "othersBalance": 7,
-      "othersNfts": 6,
-      "othersValue": 243.02732275228522
+      "othersBalance": 6,
+      "othersNfts": 5,
+      "othersValue": 143.02732275228522
     },
     {
       "address": "0x45aA6789748d0fB627214A5e6C37624D75599cba",
@@ -362,9 +362,9 @@
     },
     {
       "address": "0xB328E3e8c51E7270786ECA52c96F279691474517",
-      "allNfts": 6,
-      "totalBalance": 6,
-      "totalValue": 360,
+      "allNfts": 5,
+      "totalBalance": 5,
+      "totalValue": 260,
       "collection1Balance": 3,
       "collection1Nfts": 3,
       "collection1Value": 60,
@@ -374,9 +374,9 @@
       "collection3Balance": 0,
       "collection3Nfts": 0,
       "collection3Value": 0,
-      "othersBalance": 3,
-      "othersNfts": 3,
-      "othersValue": 300
+      "othersBalance": 2,
+      "othersNfts": 2,
+      "othersValue": 200
     },
     {
       "address": "0x439789819ff8B3Ea949A7622E529022d5935D499",
@@ -398,9 +398,9 @@
     },
     {
       "address": "0x9a053d21a9c82be75ca2D96d515E5324198eD783",
-      "allNfts": 7,
-      "totalBalance": 7,
-      "totalValue": 254.72727272727272,
+      "allNfts": 5,
+      "totalBalance": 5,
+      "totalValue": 243.72727272727272,
       "collection1Balance": 1,
       "collection1Nfts": 1,
       "collection1Value": 20,
@@ -410,9 +410,9 @@
       "collection3Balance": 1,
       "collection3Nfts": 1,
       "collection3Value": 100,
-      "othersBalance": 5,
-      "othersNfts": 5,
-      "othersValue": 134.72727272727272
+      "othersBalance": 3,
+      "othersNfts": 3,
+      "othersValue": 123.72727272727272
     },
     {
       "address": "0xc34E0770128C41b06a4bcA5257bbb725C72F918C",
@@ -5257,5 +5257,5 @@
       "othersValue": 17.81621551891023
     }
   ],
-  "lastUpdate": 1647129922713
+  "lastUpdate": 1647130223231
 }
